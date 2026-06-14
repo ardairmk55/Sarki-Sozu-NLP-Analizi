@@ -197,18 +197,6 @@ belirlenmiştir.
 
 ---
 
-# 🌡️ Heatmap
-
-Jaccard benzerlik matrisi kullanılarak oluşturulan heatmap aşağıda yer almaktadır.
-
-```text
-heatmap.png
-```
-
-Bu görsel modeller arasındaki benzerlik ilişkilerini göstermektedir.
-
----
-
 # 📓 Notebook
 
 Tüm çalışma aşağıdaki notebook içerisinde yer almaktadır:
@@ -270,8 +258,6 @@ sarki_sozu_isleme_arda_irmak_final.ipynb
 🎓 Gümüşhane Üniversitesi - Bilgisayar Programcılığı
 
 💻 Full Stack Developer
-
-🚀 Founder of CodePort
 
 🌐 NLP • AI • Web Development
 
