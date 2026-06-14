@@ -43,7 +43,11 @@ Sarki-Sozu-NLP-Analizi/
 │
 └── README.md
 ```
+## 🧠 Eğitilmiş Modeller
 
+16 adet Word2Vec model dosyası, dosya boyutu sınırları nedeniyle GitHub'a yüklenememiştir. Eğitilmiş tüm modellere aşağıdaki Google Drive bağlantısı üzerinden erişilebilir:
+
+📁 **Drive Linki:** [Word2Vec Modellerini Görüntüle ve İndir](https://drive.google.com/file/d/1gU24E55R7jrR1sEtHdDvgZmkIVtSklaB/view?usp=sharing)
 ---
 
 # 📊 Veri Setleri
